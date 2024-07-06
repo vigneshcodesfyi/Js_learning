@@ -8,7 +8,12 @@
     "variable": "nodemon --exec \"cmd /c cls && node\" ./src/variable.js",
     "function": "nodemon --exec \"cmd /c cls && node\" ./src/function.js",
     "conditionoperator": "nodemon --exec \"cmd /c cls && node\" ./src/conditionoperator.js",
-    "loops": "nodemon --exec \"cmd /c cls && node\" ./src/loops.js"
+    "loops": "nodemon --exec \"cmd /c cls && node\" ./src/loops.js",
+    "rest_spread": "nodemon --exec \"cmd /c cls && node\" ./src/rest_spread.js",
+    "destructuring": "nodemon --exec \"cmd /c cls && node\" ./src/destructuring.js",  
+      "copy": "nodemon --exec \"cmd /c cls && node\" ./src/copy.js"
+
+
 
   },
   "author": "",
